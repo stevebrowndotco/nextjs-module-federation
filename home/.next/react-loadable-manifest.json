@@ -1,0 +1,40 @@
+{
+  "../components/nav.js -> ./helloWorld": {
+    "id": 383,
+    "files": [
+      "static/chunks/383.36eb1f72da2426b9.js"
+    ]
+  },
+  "_app.js -> ./_app.js?hasBoundary": {
+    "id": 2401,
+    "files": [
+      "static/chunks/framework-706b777f121deb6c.js",
+      "static/chunks/865.6a19db81e4a768eb.js",
+      "static/chunks/401.c0ecfcb6422657e7.js"
+    ]
+  },
+  "checkout.js -> ./checkout.js?hasBoundary": {
+    "id": 1432,
+    "files": [
+      "static/chunks/432.ab95bf8ed716face.js"
+    ]
+  },
+  "index.js -> ./index.js?hasBoundary": {
+    "id": 927,
+    "files": [
+      "static/chunks/framework-706b777f121deb6c.js",
+      "static/chunks/865.6a19db81e4a768eb.js",
+      "static/chunks/927.9042119ff55e18a6.js"
+    ]
+  },
+  "index.js?hasBoundary -> checkout/title": {
+    "id": 3426,
+    "files": []
+  },
+  "shop.js -> ./shop.js?hasBoundary": {
+    "id": 4619,
+    "files": [
+      "static/chunks/619.5f1abc84f60cc477.js"
+    ]
+  }
+}

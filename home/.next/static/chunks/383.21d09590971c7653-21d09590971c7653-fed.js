@@ -1,0 +1,1 @@
+"use strict";(self.homechunkLoader=self.homechunkLoader||[]).push([[383],{383:function(e,r,n){n.r(r),n.d(r,{HelloWorld:function(){return l}});var o=n(977),l=function(){return(0,o.jsx)(o.Fragment,{children:"Hello World"})}}}]);

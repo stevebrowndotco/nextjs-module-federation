@@ -1,0 +1,1 @@
+"use strict";(self.shopchunkLoader=self.shopchunkLoader||[]).push([[447],{447:function(s,o,p){p.r(o),p(903),o.default={"/shop":"./shop","/p/*":"./pdp"}},903:function(s,o,p){p(5),p(94),p(868),p(819),p(731),p(108),p(479),p(13),p(569),s.exports={}}}]);

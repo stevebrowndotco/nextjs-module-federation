@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[383],{383:function(n,e,r){r.r(e),r.d(e,{HelloWorld:function(){return u}});var l=r(4246),u=function(){return(0,l.jsx)(l.Fragment,{children:"Hello World"})}}}]);
